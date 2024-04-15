@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.heading {
+    margin-top: 130px;
+    text-align: center;
+}
+
+marquee {
+    margin-top: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 100px;
+    background-color: skyblue;
+    padding: 10px;
+}
